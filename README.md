@@ -29,5 +29,5 @@ touch .env
 | `CERT_PATH`        | ./fixtures      |
 | `PRIVATE_KEY_PATH` | ./fixtures      |
 ## Credits
-This is created by Synaxis and "neqnil" based on BF2BC backend,
-credits: mDawg,Makahost
+This is created by Synaxis and "neqnil" based on aluigi auriemma sniff of live EA Games Server, from 2010
+some credits: first guys to port C code to Node-JS and Golang, and then make it public mDawg,Makahost
