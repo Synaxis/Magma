@@ -1,5 +1,5 @@
 # MagmaServer
-``imports might need to be rebuild, no support given , sorry``
+``imports might need to be refactored, no support given , sorry``
 
 MagmaServer handles http or https requests from the game client and gameserver.
 It's used for login/Store/inventoryList/ as parsed XML
