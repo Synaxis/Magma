@@ -1,16 +1,13 @@
 # MagmaServer
-``Import Packages are't working , Download and place the repository at your GOPATH
-  like              ¨yourGoWorkspace¨/src/github.com/Synaxis/Magma``
+``imports might need to be rebuild, no support given , sorry``
 
-MagmaServer handles requests from the game client and server.
+MagmaServer handles http or https requests from the game client and gameserver.
 It's used for login/Store/inventoryList/ as parsed XML
 It can be used by both BFHeroes and BFPlay4Free
 ### How to Build
 (change your IP inside ./config.go)
 ```
-glide init
-
-glide install
+god mod tidy
 
 go build 
 ```
